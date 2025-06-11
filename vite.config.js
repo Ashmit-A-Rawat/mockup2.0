@@ -5,6 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/mockup2.0/',
   plugins: [
     tailwindcss(),
     react()
