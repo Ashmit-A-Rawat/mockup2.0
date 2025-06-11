@@ -38,10 +38,10 @@ This was a **college hackathon project** (MockUp 2.0), where the goal was to **r
 ## 📸 Screenshots
 
 ### 🔷 Home Page
-![Home Page](./assets/lego1.jpeg)
+![Home Page](./public/img/lego1.jpeg)
 
 ### 🟡 Products Page
-![Products Page](./assets/lego2.jpeg)
+![Products Page](./public/img/lego2.jpeg)
 
 > _Ensure the above image files are placed inside the `/assets/` folder of your repository._
 
