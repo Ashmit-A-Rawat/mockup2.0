@@ -43,7 +43,6 @@ This was a **college hackathon project** (MockUp 2.0), where the goal was to **r
 ### 🟡 Products Page
 ![Products Page](./public/img/lego2.jpeg)
 
-> _Ensure the above image files are placed inside the `/assets/` folder of your repository._
 
 ---
 
